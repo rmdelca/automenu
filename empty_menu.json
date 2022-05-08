@@ -1,0 +1,37 @@
+{
+    "lunes" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "martes" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "miercoles" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "jueves" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "viernes" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "sabado" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    },
+    "domingo" : {
+        "desayuno" : "",
+        "comida"   : "",
+        "cena"     : ""
+    }
+}

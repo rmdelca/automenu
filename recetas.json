@@ -1,0 +1,96 @@
+{    
+    "Omelette de espinacas" : [
+        ["huevo", 2, "pza"],
+        ["aceite de oliva", 1, "cdta"],
+        ["espinacas", 5, "pza"],
+        ["cebolla", 0.128, "pza"],
+        ["chile verde", 1, "pza"],
+        ["tortilla", 2, "pza"],
+        "Hacer omelette con los ingredientes"
+    ],
+    "Claras de huevo con verdura" : [
+        ["claras de huevo", 4, "pza"],
+        ["aceite de oliva", 1, "cdta"],
+        ["espinacas", 5, "pza"],
+        ["cebolla", 0.128, "pza"],
+        ["chile verde", 1, "pza"],
+        ["tortilla", 2, "pza"],
+        "Preparar claras con los ingredientes"
+    ],
+    "Pan tostado con aguacate" : [
+        ["huevo", 2, "pza"],
+        ["pan integral", 2, "pza"],
+        ["aguacate", 0.333, "pza"],
+        "Hacer guacamole y untar en el pan, servir el huevo encima"
+    ],
+    "Omelette de machaca" : [
+        ["huevo", 2, "pza"],
+        ["machaca", 20, "gr"],
+        ["cebolla", 0.128, "pza"],
+        ["huevo", 2, "pza"],
+        ["aceite de oliva", 1, "cdta"],
+        ["tortilla", 2, "pza"],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Huevo con tortilla" : [
+        ["huevo", 2, "pza"],
+        ["aceite de oliva", 1, "cdta"],
+        ["tortilla", 2, "pza"],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Huevo con verdura" : [
+        ["huevo", 2, "pza"],
+        ["aceite de oliva", 1, "cdta"],
+        ["tortilla", 1, "pza"],
+        ["espinacas", 5, "pza"],
+        ["tomate", 0.25, "pza"],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Hotcakes de avena" : [
+        ["avena", 0.25, "taza"],
+        ["platano macho", 0.5, "pza"],
+        ["huevo", 1, "pza"],
+        ["leche", 1, "cdta"],
+        ["polvo para hornear", 1, "cdta"],
+        ["canela", 1, "cdta"],
+        ["vainilla", 1, "cdta"],
+        ["crema de cacahuate", 1, "cdta"],
+        "Licuar los ingredientes y hacer los hotcakes en el sarten"
+    ],
+    "Pollo a la plancha" : [
+        ["pechuga de pollo", 140, "gr"],
+        ["brocoli", 10, "pza"],
+        ["arroz", 0.5, "taza"],
+        "Hacer el pollo a la plancha, servir brocoli al vapor, "
+    ],
+    "Pescado empapelado" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Taquitos de pechuga de pollo" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Carne a la plancha" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Ensalada de pollo" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Tinga de pollo" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"
+    ],
+    "Ensalada de atun" : [
+        ["", ,""],
+        [],
+        "Preparar omelette con los ingredientes"     
+    ]
+}

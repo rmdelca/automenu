@@ -1,0 +1,37 @@
+{
+  "lunes": {
+    "desayuno": "Pan tostado con aguacate",
+    "comida": "Carne a la plancha",
+    "cena": "Carne asada"
+  },
+  "martes": {
+    "desayuno": "Pan tostado con aguacate",
+    "comida": "Carne a la plancha",
+    "cena": "Carne asada"
+  },
+  "miercoles": {
+    "desayuno": "Pan tostado con aguacate",
+    "comida": "Carne a la plancha",
+    "cena": "Carne asada"
+  },
+  "jueves": {
+    "desayuno": "Huevo con verdura",
+    "comida": "Pescado empapelado",
+    "cena": "Atun con verdura"
+  },
+  "viernes": {
+    "desayuno": "Huevo con verdura",
+    "comida": "Pescado empapelado",
+    "cena": "Atun con verdura"
+  },
+  "sabado": {
+    "desayuno": "Hotcakes de avena",
+    "comida": "Ensalada de atun",
+    "cena": "Sandwich de pollo"
+  },
+  "domingo": {
+    "desayuno": "Hotcakes de avena",
+    "comida": "Ensalada de atun",
+    "cena": "Sandwich de pollo"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "desayuno" : [
+        "Omelette de espinacas",
+        "Claras de huevo con verdura",
+        "Pan tostado con aguacate",
+        "Omelette de machaca",
+        "Huevo con tortilla",
+        "Huevo con verdura",
+        "Hotcakes de avena"
+    ],
+    "comida"   : [
+        "Pollo a la plancha",
+        "Pescado empapelado",
+        "Taquitos de pechuga de pollo",
+        "Carne a la plancha",
+        "Ensalada de pollo", 
+        "Tinga de pollo",
+        "Ensalada de atun"
+    ],
+    "cena"     : [
+        "Atun con verdura",
+        "Pan tostado con queso cottage",
+        "Atun con verdura",
+        "Sandwich de pollo",
+        "Carne asada",
+        "Sandwich de jamon con queso",
+        "Ensalada de pollo"
+    ]
+}
